@@ -25,7 +25,8 @@ img{
     background-color: rgb(255, 255, 255);
     }   
     
- #menu{
+
+#menu{
     color: #000000;
     background-color: #ffffff;
     position: absolute;
@@ -35,47 +36,14 @@ img{
     width: 100%;
 }
 .btn-home {
-
     display: flex;
     padding: 15px;
     margin-top: 63px;
     width: 60px;
     height: 30px;
 }
-
 .btn-home a{
-
     text-decoration: none;
     color: #ffffff;
     font-weight: bold;
     font-size: 22px;
-}
-
-#content{
-
-    display: flex;
-    width: 420px;
-    position: absolute;
-    right: 0px;
-
-}
-
-footer{
-    grid-area: footer;
-    background-color: #06377B;
-    position: absolute;
-    bottom: -180px;
-    width: 100%;
-    height: 100px;
-    text-align: center;
-    line-height: 50px;
-    display: flex;
-    color: #fff;
-    padding: 30px;
-    
-}
-
-.btns{
-    position: absolute;
-
-}
