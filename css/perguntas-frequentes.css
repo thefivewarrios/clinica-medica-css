@@ -47,3 +47,49 @@ img{
     color: #ffffff;
     font-weight: bold;
     font-size: 22px;
+}
+
+body{
+
+    background-color: #008ED4;
+
+}
+
+h3{
+
+    text-align: left;
+    text-transform: lowercase;
+    letter-spacing: 5px;
+    max-width: 50%;
+    margin: 10px;
+
+}
+
+.doutora{
+    background-image: url('../img/perguntas-frequentes.png');
+    background-size: cover;
+    display: flex;
+    width: 500px;
+    height: 490px ;
+    position: absolute;
+    right: 0;
+    margin-right: 40px;
+    margin-top: -600px;
+
+}
+
+footer{
+    grid-area: footer;
+    background-color: #06377B;
+    position: absolute;
+    bottom: -390px;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    line-height: 50px;
+    display: flex;
+    color: #fff;
+    padding: 30px;
+    height: 15%;
+    
+}
