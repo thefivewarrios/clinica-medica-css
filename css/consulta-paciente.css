@@ -25,9 +25,6 @@ img{
     background-color: rgb(255, 255, 255);
     }   
     
-    body{
-        background-color: #D6EDF9;
-    }
 
 #menu{
     color: #000000;
@@ -77,64 +74,26 @@ footer{
     width: 200px;
 }
 
-#login{
+.campos{
 display: block;
-width: 300px;
+width: 100%;
 text-decoration: none;
 position: absolute;
-bottom: 350px;
+bottom: 150px;
 border-color: #000000;
 position: fixed;
-left: 120px;
-}
-
-#login-2{
-display: block;
-width: 300px;
-text-decoration: none;
-position: absolute;
-bottom: 270px;
-border-color: #000000;
-position: fixed;
-left: 120px;
-}
-
-input{
-    background-color: rgb(255, 255, 255);
-    height: 50px;
-    border-radius: 10px;
-    width: 300px;
-}
-
-button{
-    background-color: #008ED4;
-    color: #ffffff;
-    height: 35px;
-    border-radius: 10px;
-    width: 220px;
-}
-#acesso{
-    display: block;
-    width: 300px;
-    text-decoration: none;
-    position: absolute;
-    bottom: 160px;
-    border-color: #000000;
-    position: fixed;
-    left: 200px;
-}
-
-#botao-entrar{
-    display: block;
-    width: 300px;
-    text-decoration: none;
-    position: absolute;
-    bottom: 200px;
-    border-color: #000000;
-    position: fixed;
-    left: 155px;
+right: -150px;
 }
 
 #btn-1{
  background-color: #06377b;
+}
+#btn-2{
+
+}
+#btn-3{
+
+}
+#btn-4{
+
 }

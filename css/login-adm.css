@@ -113,16 +113,6 @@ button{
     border-radius: 10px;
     width: 220px;
 }
-#acesso{
-    display: block;
-    width: 300px;
-    text-decoration: none;
-    position: absolute;
-    bottom: 160px;
-    border-color: #000000;
-    position: fixed;
-    left: 200px;
-}
 
 #botao-entrar{
     display: block;
@@ -133,6 +123,17 @@ button{
     border-color: #000000;
     position: fixed;
     left: 155px;
+}
+
+#acesso{
+    display: block;
+    width: 300px;
+    text-decoration: none;
+    position: absolute;
+    bottom: 160px;
+    border-color: #000000;
+    position: fixed;
+    left: 200px;
 }
 
 #btn-1{
