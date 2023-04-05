@@ -112,7 +112,16 @@ button{
     height: 35px;
     border-radius: 10px;
     width: 220px;
+    transition: 400ms;
 }
+button:hover{
+    background-color: #015641;
+    border-radius: 50px;
+
+
+
+}
+
 
 #botao-entrar{
     display: block;
@@ -123,6 +132,12 @@ button{
     border-color: #000000;
     position: fixed;
     left: 155px;
+}
+
+#bemvindo{
+    position: absolute;
+    bottom: 430px;
+    left: 110px;
 }
 
 #acesso{
