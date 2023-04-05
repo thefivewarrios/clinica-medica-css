@@ -1,0 +1,154 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+header{
+    background-color: #06377b;
+    display:flex;
+    width: 50%;
+    padding-right:100px ;
+    
+
+    
+}
+
+body {
+    color: #d6edf9;
+    height: 600px;
+    width: 200%;
+    background-color: #d6edf9;
+    margin-bottom: initial;
+    margin-left: auto ;
+    margin-left: auto; 
+}
+
+#cabecalho-global{
+    display: grid;
+    position: absolute;
+    right: 0;
+    padding-right: 100px;
+    width: 100%;
+    height: 18vh;
+}
+img{
+    width: 200px;
+    border-bottom: 40%;
+    display: grid;
+    border:1px solid;
+}
+
+#rede-social{
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+    }   
+
+#menu{
+    color: #000000;
+    background-color: #ffffff;
+    position: absolute;
+    padding-left: 7px;
+    left: 200px;
+    bottom: 479px;
+    width: 100%;
+}
+
+.btn-home {
+    display: flex;
+    padding: 15px;
+    margin-top: 63px;
+    width: 60px;
+    height: 30px;
+}
+
+.btn-home a{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+footer{
+    position: absolute;
+    bottom: -610px;
+    width: 100%;
+    height: -200px;
+    max-height: 122px;
+    text-align:left;
+    line-height: 50px;
+    background-color: #06377b;
+    display: flex;
+    color: #ffffff;
+    padding: 30px;
+}
+
+#imagem-1{
+    display: flex;
+    width: 420px;
+    position:absolute;
+    right:0;
+    min-width: 50%;
+    
+}
+  
+border{
+    border:border white;
+    border-width: #d6d6d6;
+    border-style: solid;
+    border-color: aqua;
+    border-radius: 0;
+}
+
+.btn-cadastro{
+    display: auto;
+    width: 100px;
+    text-decoration: none;
+    position: fixed;
+    right: 1100px;
+    height: 50px;
+    position: absolute;
+    margin-left: 400px;
+    margin-right:-7px;
+    margin-top: 7px;   
+}
+
+#largura1{
+    position:absolute;
+    margin-top:-0px;
+    margin-left: -40px;
+    margin-right: 40px;
+}
+#largura2{
+    position:absolute;
+    margin: top 75px;
+    margin-left: 74px;
+    margin-right: 300px;
+
+
+}
+
+#largura3{
+    position:absolute;
+    margin: top 90px;
+    margin-left: -40px;
+    margin-right: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+

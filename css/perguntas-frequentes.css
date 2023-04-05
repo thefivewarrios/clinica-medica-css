@@ -56,7 +56,11 @@ body{
 }
 
 h3{
+<<<<<<< HEAD
     color: #fff;
+=======
+
+>>>>>>> 41a58ff2db0b2527925ba071c784753934b7712e
     text-align: left;
     text-transform: lowercase;
     letter-spacing: 5px;
